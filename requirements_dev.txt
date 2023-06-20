@@ -1,0 +1,17 @@
+-r requirements.txt
+
+tqdm
+click
+gcsfs
+geopy
+wandb
+fsspec
+plotly
+pymysql
+seaborn
+sshtunnel
+jupyterlab
+umap-learn
+SQLAlchemy==1.4
+umap-learn[plot]
+google-cloud-storage

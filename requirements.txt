@@ -1,0 +1,7 @@
+h5py
+pandas
+pyyaml
+tensorflow
+sentry-sdk  # Optional?
+matplotlib  # Optional?
+python-dotenv
